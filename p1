@@ -1,0 +1,27 @@
+diff --git a/a1 b/a1
+index e765e98..abe4786 100644
+--- a/a1
++++ b/a1
+@@ -1,3 +1 @@
+ ddddd
+-sdsdsd
+-sdsdsd
+diff --git a/a2 b/a2
+index 706f2ef..e69de29 100644
+--- a/a2
++++ b/a2
+@@ -1 +0,0 @@
+-sdsdsd
+diff --git a/a222 b/a222
+deleted file mode 100644
+index 706f2ef..0000000
+--- a/a222
++++ /dev/null
+@@ -1 +0,0 @@
+-sdsdsd
+diff --git a/a3 b/a3
+index 706f2ef..e69de29 100644
+--- a/a3
++++ b/a3
+@@ -1 +0,0 @@
+-sdsdsd
